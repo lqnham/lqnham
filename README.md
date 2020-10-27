@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=white&height=300&section=header&text=Call%20Me%20Tý%20Chuột&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Call%20Me%20Tý%20Chuột&fontSize=90" />
 
 <p align='center'> Decorate GitHub Profile or any Repo like me! </p>
 <p align='center'>
