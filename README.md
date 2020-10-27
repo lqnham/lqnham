@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" />
 
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'>RONIN, NOW OR NEVER </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
