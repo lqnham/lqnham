@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### MY STATS
+### ✨ MY STATS ✨
 ![lqnham's github stats](https://github-readme-stats.vercel.app/api?username=lqnham&show_icons=true&theme=bear)
 ### ✨ MY Skill ✨
 
