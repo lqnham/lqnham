@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" />
 
 <p align='center'>RONIN, NOW OR NEVER </p>
 <p align='center'>
