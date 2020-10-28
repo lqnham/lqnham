@@ -15,11 +15,11 @@
 ![lqnham's github stats](https://github-readme-stats.vercel.app/api?username=lqnham&show_icons=true&theme=great-gatsby)
 ### ✨ MY SKILL ✨
 
- <img width="50" alt="Java" src="images/java.png"/>
- <img width="50" alt="Spring" src="images/spring.png"/>
- <img width="50" alt="Hibernate" src="images/hibernate.png"/>
- <img width="50" alt="NodeJS" src="images/nodejs.png"/>
- <img width="50" alt="Vue" src="images/vue.png"/>
+ <code><img height="50" alt="Java" src="images/java.png"/></code>
+ <code><img height="50" alt="Spring" src="images/spring.png"/></code>
+ <code><img height="50" alt="Hibernate" src="images/hibernate.png"/></code>
+ <code><img height="50" alt="NodeJS" src="images/nodejs.png"/></code>
+ <code><img height="50" alt="Vue" src="images/vue.png"/></code>
  
 <!--
 **lqnham/lqnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
