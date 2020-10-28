@@ -15,16 +15,16 @@
 ![lqnham's github stats](https://github-readme-stats.vercel.app/api?username=lqnham&show_icons=true&theme=great-gatsby)
 ### ✨ MY SKILL ✨
 
-<code><img height="15" alt="Java" src="images/java.png"/></code>
-<code><img height="15" alt="Spring" src="images/spring.png"/></code>
-<code><img height="15" alt="SpringBoot" src="images/springboot.png"/></code>
-<code><img height="15" alt="NodeJS" src="images/nodejs.png"/></code>
-<code><img height="15" alt="Hibernate" src="images/hibernate.png"/></code>
-<code><img height="15" alt="Postgres" src="images/postgres.png"/></code>
-<code><img height="15" alt="MongoDB" src="images/mongodb.png"/></code>
-<code><img height="15" alt="Vue" src="images/vue.png"/></code>
-<code><img height="15" alt="Vue" src="images/images.png"/></code>
-<code><img height="15" alt="Vue" src="images/git.png"/></code>
+<code><img height="30" alt="Java" src="images/java.png"/></code>
+<code><img height="30" alt="Spring" src="images/spring.png"/></code>
+<code><img height="30" alt="SpringBoot" src="images/springboot.png"/></code>
+<code><img height="30" alt="NodeJS" src="images/nodejs.png"/></code>
+<code><img height="30" alt="Hibernate" src="images/hibernate.png"/></code>
+<code><img height="30" alt="Postgres" src="images/postgres.png"/></code>
+<code><img height="30" alt="MongoDB" src="images/mongodb.png"/></code>
+<code><img height="30" alt="Vue" src="images/vue.png"/></code>
+<code><img height="30" alt="Vue" src="images/images.png"/></code>
+<code><img height="30" alt="Vue" src="images/git.png"/></code>
 <!--
 **lqnham/lqnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
