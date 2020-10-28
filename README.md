@@ -17,7 +17,7 @@
 
 <code><img height="50" alt="Java" src="images/java.png"/></code>
 <code><img height="50" alt="Spring" src="images/spring.png"/></code>
-<code><img height="50" alt="Vue" src="images/springboot.png"/></code>
+<code><img height="50" alt="SpringBoot" src="images/springboot.png"/></code>
 <code><img height="50" alt="NodeJS" src="images/nodejs.png"/></code>
 <code><img height="50" alt="Hibernate" src="images/hibernate.png"/></code>
 <code><img height="50" alt="Postgres" src="images/postgres.png"/></code>
