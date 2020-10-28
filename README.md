@@ -9,7 +9,9 @@
 </p>
 
 ### ✨ MY STATS ✨
+
 ![lqnham's github stats](https://github-readme-stats.vercel.app/api?username=lqnham&show_icons=true&theme=great-gatsby)
+
 ### ✨ MY SKILL ✨
 
 <code><img height="50" alt="Java" src="images/java.png"/></code>
