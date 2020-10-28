@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi visitor 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F1E1A6&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" />
 
 <p align='center'>RONIN, NOW OR NEVER </p>
