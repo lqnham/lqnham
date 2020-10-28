@@ -14,8 +14,11 @@
 ### ✨ MY STATS ✨
 ![lqnham's github stats](https://github-readme-stats.vercel.app/api?username=lqnham&show_icons=true&theme=great-gatsby)
 ### ✨ MY SKILL ✨
-![Kiku](images/nodejs.png)
+ <img width="50" src="images/java.png"/>
+ <img width="50" src="images/spring.png"/>
+ <img width="50" src="images/hibernate.png"/>
  <img width="50" src="images/nodejs.png"/>
+ <img width="50" src="images/vue.png"/>
 <!--
 **lqnham/lqnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
