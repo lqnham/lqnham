@@ -25,7 +25,7 @@
 <code><img height="50" alt="Vue" src="images/images.png"/></code>
 <code><img height="50" alt="Vue" src="images/git.png"/></code>
 
-[Intro.pdf](https://github.com/lqnham/lqnham/blob/main/Nham's%20Resume.pdf)
+[Intro.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf)
 
 
 
