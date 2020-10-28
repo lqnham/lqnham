@@ -23,6 +23,8 @@
 <code><img height="50" alt="Postgres" src="images/postgres.png"/></code>
 <code><img height="50" alt="MongoDB" src="images/mongodb.png"/></code>
 <code><img height="50" alt="Vue" src="images/vue.png"/></code>
+<code><img height="50" alt="Vue" src="images/scrum.png"/></code>
+<code><img height="50" alt="Vue" src="images/git.png"/></code>
 <!--
 **lqnham/lqnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
