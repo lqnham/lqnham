@@ -1,6 +1,6 @@
 ### Hi visitor 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=F1E1A6&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" />
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=F1E1A6&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" /> -->
+[![Linkedin Badge](https://img.shields.io/badge/-BarisKarapinar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/baris-karapinar/)](https://www.linkedin.com/in/baris-karapinar/)
 <p align='center'>RONIN, NOW OR NEVER </p>
 <p align='center'>
   <a href="https://lqnham.github.io/">
