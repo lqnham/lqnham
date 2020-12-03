@@ -1,12 +1,6 @@
 ### Hi visitor 👋
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=F1E1A6&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" /> -->
-[![Linkedin Badge](https://img.shields.io/badge/-BarisKarapinar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/baris-karapinar/)](https://www.linkedin.com/in/baris-karapinar/)
-<p align='center'>RONIN, NOW OR NEVER </p>
-<p align='center'>
-  <a href="https://lqnham.github.io/">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
+[![Le Quoc Nham](https://img.shields.io/badge/-Le%20Quoc%20Nham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhamlq//)](https://www.linkedin.com/in/nhamlq/)
 
 ### ✨ MY STATS ✨
 
