@@ -29,7 +29,7 @@ http://img.shields.io/badge/-mysql-007396?style=flat-square&logo=mysql&logoColor
 
 ### ✨ MY RESUME ✨
 
-<code><img alt="CV" src="Nham's 201220.jpg"/></code>
+<code><img alt="CV" src="Nham's%20201220.png"/></code>
 
 <!--
 **lqnham/lqnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
