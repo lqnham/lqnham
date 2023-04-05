@@ -1,6 +1,5 @@
 ### Hi visitor 👋
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=F1E1A6&height=300&section=header&text=call%20me%20Tý%20Chuột&fontSize=70&fontColor=white" /> -->
-[![Le Quoc Nham](https://img.shields.io/badge/-Le%20Quoc%20Nham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhamlq//)](https://www.linkedin.com/in/nhamlq/)
 
 ### ✨ MY STATS ✨
 
